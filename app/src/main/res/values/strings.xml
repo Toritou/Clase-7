@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">sensores</string>
+    <string name="estado">Estado:</string>
+    <string name="reiniciar">Reiniciar</string>
+</resources>
